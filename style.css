@@ -22,10 +22,6 @@ body {
     justify-content: space-between;
 }
 
-.hero{
-    
-}
-
 .logo {
     font-size: 24px ;
 }
@@ -52,6 +48,11 @@ a{
     font-size: 18px;
 }
 
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 4px 8px;
+}
 
 
 .quote {
