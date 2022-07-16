@@ -1,6 +1,6 @@
 * {
     /*border for arranging boxes*/
-    border: 1px solid rd;
+    border: 1px solid red;
 }
 
 body {
@@ -9,7 +9,6 @@ body {
     flex-direction: column;
     margin: 0;
 }
-
 .header,
 .footer{
     background-color: #1F2937;
@@ -54,6 +53,22 @@ button {
     padding: 4px 8px;
 }
 
+.info{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px
+}
+
+.card{
+    max-width: 100px;
+}
 
 .quote {
     background-color: #E5E7EB;
