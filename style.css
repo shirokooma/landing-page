@@ -81,3 +81,16 @@ button {
 .quote {
     background-color: #E5E7EB;
 }
+
+.prompt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+.modal button {
+    border: 1px solid white;
+}
