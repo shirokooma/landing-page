@@ -1,10 +1,23 @@
 * {
+    /*border for arranging boxes*/
     border: 1px solid rd;
 }
 
 .header,
 .footer{
     background-color: #1F2937;
+    color: #F9FAF8;
+}
+.logo {
+    font-size: 24px ;
+}
+.hero-text {
+    font-weight: bolder;
+    font-size: 48px;
+}
+.hero-subtext{
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 ul {
