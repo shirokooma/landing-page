@@ -1,0 +1,12 @@
+* {
+    border: 1px solid rd;
+}
+
+.header,
+.footer{
+    background-color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
