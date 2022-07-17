@@ -87,6 +87,21 @@ button {
     align-items: center;
     justify-content: center;
 }
+.quote-container{
+    display: flex;
+    flex-direction: column;
+    padding: 0 50px;
+}
+.quote-text{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+.person {
+    text-align: end;
+}
+
 .modal {
     background-color: #3882F6;
     color: #F9FAF8;
@@ -96,6 +111,7 @@ button {
     padding: 0 48px;
     margin: 30px;
 }
+
 .modal button {
     border: 1px solid white;
 }
