@@ -1,6 +1,6 @@
 * {
     /*border for arranging boxes*/
-    border: 1px solid red;
+    /*border: 1px solid red;*/
 }
 
 body {
@@ -32,7 +32,7 @@ body {
     align-items: center;
 }
 .hero-img{
-    max-width: 400px;
+    max-width: 600px;
     flex-shrink: 0;
 }
 .logo {
