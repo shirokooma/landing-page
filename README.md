@@ -1,4 +1,7 @@
 # landing-page
+
+This project demonstrates what I have learned so far in HTML and CSS. It consists of a simple landing page layout with content of some things that I enjoy.
+
 Beach Sunset Image by <a href="https://pixabay.com/users/publicdomainpictures-14/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=164989">PublicDomainPictures</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=164989">Pixabay</a>
 
 Bird Mid-Flight Image by <a href="https://pixabay.com/users/publicdomainpictures-14/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=164989">PublicDomainPictures</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=164989">Pixabay</a>
