@@ -30,10 +30,11 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 48px;
 }
 .hero-img{
-    max-width: 600px;
-    flex-shrink: 0;
+    max-width: 450px;
+    
 }
 .logo {
     font-size: 24px ;
@@ -87,6 +88,10 @@ button {
 }
 
 .card{
+    max-width: 160px;
+}
+
+.info-img {
     max-width: 160px;
 }
 
